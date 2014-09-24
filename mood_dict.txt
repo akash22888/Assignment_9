@@ -1,0 +1,4 @@
+Happy		Sad		Sarcastic		Surprised		Crook		Neutral		Angry
+
+:)		:(		:P			:-o			B-)		:-/		x-(
+:D		:'(		;)			O_O 			;)		=_=		>_<
