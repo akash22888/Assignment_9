@@ -1,1 +1,14 @@
- 
+A : Angry
+C : Happy
+B : Surprised
+E : Surprised
+G : Surprised
+
+--------------------
+Angry : 10.714285714285714 %
+Sarcastic : 10.714285714285714 %
+Sad : 0.0 %
+Crook : 10.714285714285714 %
+Neutral : 10.714285714285714 %
+Surprised : 28.57142857142857 %
+Happy : 28.57142857142857 %
